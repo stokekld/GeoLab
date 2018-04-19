@@ -1,0 +1,20 @@
+{
+    "name": "dicyg/geolab",
+    "description": "Página web",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Jesus Flores",
+            "email": "joywarmgun@gmail.com"
+        }
+    ],
+    "require": {
+        "nikic/fast-route": "^1.3",
+	"philo/laravel-blade": "2.1"
+    },
+    "autoload": {
+	"classmap": [
+	    "app/controllers"
+	]
+    }
+}

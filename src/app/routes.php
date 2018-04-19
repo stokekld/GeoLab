@@ -2,6 +2,11 @@
 
 $dispatcher = FastRoute\simpleDispatcher(function(FastRoute\RouteCollector $r) {
     $r->addRoute('GET', '/', 'NavController@index');
+    $r->addRoute('GET', '/contacto', 'NavController@contact');
+    $r->addRoute('GET', '/acerca', 'NavController@about');
+    $r->addRoute('GET', '/videos', 'NavController@videos');
+    $r->addRoute('GET', '/practicas', 'NavController@practices');
+    $r->addRoute('GET', '/citas', 'NavController@quotes');
 });
 
 // Fetch method and URI from somewhere
@@ -27,6 +32,7 @@ $routeInfo = $dispatcher->dispatch($httpMethod, $route);
 switch ($routeInfo[0]) {
 case FastRoute\Dispatcher::NOT_FOUND:
     // ... 404 Not Found
+    blade('404');
     break;
 case FastRoute\Dispatcher::METHOD_NOT_ALLOWED:
     $allowedMethods = $routeInfo[1];

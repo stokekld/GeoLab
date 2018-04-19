@@ -1,15 +1,34 @@
 <?php
 
-use Philo\Blade\Blade;
-
 class NavController
 {
     public function index()
     {
-	$views = __DIR__ .'/../views';
-	$cache = __DIR__ .'/../cache';
+	blade('index');
+    }
 
-	$blade = new Blade($views, $cache);
-	echo $blade->view()->make('index')->render();
+    public function contact()
+    {
+	blade('contact');
+    }
+
+    public function about()
+    {
+	blade('about');
+    }
+
+    public function practices()
+    {
+	blade('practices');
+    }
+
+    public function quotes()
+    {
+	blade('quotes');
+    }
+
+    public function videos()
+    {
+	blade('videos');
     }
 }

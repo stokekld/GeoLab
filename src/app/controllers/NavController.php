@@ -10,6 +10,6 @@ class NavController
 	$cache = __DIR__ .'/../cache';
 
 	$blade = new Blade($views, $cache);
-	echo $blade->view()->make('base')->render();
+	echo $blade->view()->make('index')->render();
     }
 }

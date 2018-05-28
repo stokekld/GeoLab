@@ -23,7 +23,7 @@
                               <!-- Each posts should be enclosed inside "entry" class" -->
                               <!-- Post one -->
                               <div class="entry">
-                                 <h2><a href="#">Sed justo scelerisque ut consectetur</a></h2>
+                                 <h2><a href="#">Práctica: Coberturas Forestales</a></h2>
                                  
                                  <!-- Meta details -->
                                  <div class="meta">
@@ -35,7 +35,7 @@
                                     <a href="#"><img src="img/photos/r1.jpg" alt="" class="img-responsive" /></a>
                                  </div>
                                  
-                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vulputate eros nec odio egestas in dictum nisi vehicula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse porttitor luctus imperdiet.</p>
+                                 <p>La cobertura forestal es una extensión de territorio ocupada por diferentes tipos de vegetación, la cual funge como indicador para el análisis y comportamiento de los bosques a lo largo del tiempo.</p>
                                  <div class="button"><a href="#">Read More...</a></div>
                               </div>
                               

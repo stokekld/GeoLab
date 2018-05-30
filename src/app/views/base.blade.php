@@ -114,11 +114,9 @@
 			<div class="widget">
 			    <h4>Software Libre</h4>
 			    <ul>
-				<li><i class="fa fa-angle-right"></i> <a href="#">Condimentum</a></li>
-				<li><i class="fa fa-angle-right"></i> <a href="#">Etiam at</a></li>
-				<li><i class="fa fa-angle-right"></i> <a href="#">Fusce vel</a></li>
-				<li><i class="fa fa-angle-right"></i> <a href="#">Vivamus</a></li>
-				<li><i class="fa fa-angle-right"></i> <a href="#">Pellentesque</a></li>
+				<li><i class="fa fa-angle-right"></i> <a href="https://qgis.org/es/site/">QGIS</a></li>
+				<li><i class="fa fa-angle-right"></i> <a href="http://www.saga-gis.org/en/index.html">SAGA</a></li>
+				<li><i class="fa fa-angle-right"></i> <a href="https://step.esa.int/main/download/">SNAP</a></li>
 			    </ul>
 			</div>
 		    </div>

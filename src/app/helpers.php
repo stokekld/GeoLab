@@ -15,6 +15,7 @@ function home_url()
 {
     $http = 'http://';
     $context = '';
+    $port = '';
 
     if ( isset($_SERVER['HTTPS']) )
 	if ( $_SERVER['HTTPS'] == "on" )
@@ -23,5 +24,8 @@ function home_url()
     if ( $_SERVER['CONTEXT_PREFIX'] != "" )
 	$context = $_SERVER['CONTEXT_PREFIX'];
 
-    return $http.$_SERVER['SERVER_NAME'].$context.'/';
+    if ( $_SERVER['SERVER_PORT'] != "80")
+	$port = ":".$_SERVER['SERVER_PORT'];
+
+    return $http.$_SERVER['SERVER_NAME'].$port.$context.'/';
 }

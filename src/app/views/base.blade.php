@@ -39,7 +39,7 @@
 		    <div class="col-md-4 col-sm-4">
 			<!-- Logo and site link -->
 			<div class="logo">
-			    <h1><a href="index.html">Laboratorio Geoespacial<span class="color">.</span></a></h1>
+			    <h1><a href="{{ home_url() }}">Laboratorio Geoespacial<span class="color">.</span></a></h1>
 			</div>
 		    </div>
 		</div>

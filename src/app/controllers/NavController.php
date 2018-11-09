@@ -7,6 +7,36 @@ class NavController
 	blade('index');
     }
 
+    public function solids()
+    {
+	blade('solids');
+    }
+
+    public function forest()
+    {
+	blade('forest');
+    }
+
+    public function covers()
+    {
+	blade('covers');
+    }
+
+    public function oceans()
+    {
+	blade('oceans');
+    }
+
+    public function resources()
+    {
+	blade('resources');
+    }
+
+    public function temperature()
+    {
+	blade('temperature');
+    }
+
     public function contact()
     {
 	blade('contact');

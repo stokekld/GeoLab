@@ -2,6 +2,12 @@
 
 $dispatcher = FastRoute\simpleDispatcher(function(FastRoute\RouteCollector $r) {
     $r->addRoute('GET', '/', 'NavController@index');
+    $r->addRoute('GET', '/solidos', 'NavController@solids');
+    $r->addRoute('GET', '/incendios-forestales', 'NavController@forest');
+    $r->addRoute('GET', '/cubiertas', 'NavController@covers');
+    $r->addRoute('GET', '/oceanos', 'NavController@oceans');
+    $r->addRoute('GET', '/recursos', 'NavController@resources');
+    $r->addRoute('GET', '/temperatura', 'NavController@temperature');
     $r->addRoute('GET', '/contacto', 'NavController@contact');
     $r->addRoute('GET', '/acerca', 'NavController@about');
     $r->addRoute('GET', '/videos', 'NavController@videos');

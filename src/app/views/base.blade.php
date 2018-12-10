@@ -85,15 +85,27 @@
 			<!-- Widget 1 -->
 			<div class="widget">
 			    <h4>Autores</h4>
-			    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elementum dolor eget nisi fermentum quis hendrerit magna vestibulum. </p>
-			    <!-- Social Media -->
-			    <div class="social">
-				<a href="#"><i class="fa fa-twitter twitter"></i></a>
-				<a href="#"><i class="fa fa-pinterest pinterest"></i></a>
-				<a href="#"><i class="fa fa-facebook facebook"></i></a>
-				<a href="#"><i class="fa fa-google-plus google-plus"></i></a>
-				<a href="#"><i class="fa fa-linkedin linkedin"></i></a>
-			    </div>
+			    <ul>
+				<li><i class="fa fa-angle-right"></i> <a target="_blank" href="https://www.researchgate.net/profile/Berenice_Hernandez3">Dra. Griselda Berenice Hernández Cruz</a></li>
+				<li><i class="fa fa-angle-right"></i> <a target="_blank" href="http://www.ciga.unam.mx/index.php/mas">Dr. Jean Francois Mas</a></li>
+				<li><i class="fa fa-angle-right"></i> <a target="_blank" href="http://www.igeograf.unam.mx/sigg/investigacion/personal/personal.php?cual_personal=MjU">Dr. José López García</a></li>
+				<li><i class="fa fa-angle-right"></i> <a target="_blank" href="https://www.linkedin.com/in/mario-v%C3%A1squez-ortiz-383046153/">Lic. Mario Vázquez Ortiz</a></li>
+				<li><i class="fa fa-angle-right"></i> <a target="_blank" href="https://www.researchgate.net/profile/Miguel_Gomez_Albores">Dr. Miguel Ángel Gómez Albores</a></li>
+				<li><i class="fa fa-angle-right"></i> <a target="_blank" href="http://www.igeograf.unam.mx/sigg/investigacion/personal/personal.php?cual_personal=NzA">Dra. Olivia Salmerón García</a></li>
+				<li><i class="fa fa-angle-right"></i> <a target="_blank" href="http://www.igeograf.unam.mx/sigg/investigacion/personal/personal.php?cual_personal=NTk">Dr. Raúl Aguirre Gómez</a></li>
+				<li><i class="fa fa-angle-right"></i> <a target="_blank" href="http://dicyg.fi-c.unam.mx/~tanya/">Mtra. Tanya Arteaga Ricci</a></li>
+			    </ul>
+
+			    <h4>Becarios</h4>
+			    <ul>
+				<li><i class="fa fa-angle-right"></i> Brenda Jennyfer Cerón Bautista</li>
+				<li><i class="fa fa-angle-right"></i> Daniel Jiménez Gonzalez</li>
+				<li><i class="fa fa-angle-right"></i> Efraín Rodríguez Ramón</li>
+				<li><i class="fa fa-angle-right"></i> Efraín Rodríguez Ramón</li>
+				<li><i class="fa fa-angle-right"></i> Julieta Karla Blancas Zamora</li>
+				<li><i class="fa fa-angle-right"></i> Karen Villa Rangel</li>
+				<li><i class="fa fa-angle-right"></i> Michelle Fernandez López Fuentes</li>
+			    </ul>
 			</div>
 		    </div>
 		    <div class="col-md-4">
@@ -101,11 +113,16 @@
 			<div class="widget">
 			    <h4>Ligas de Interes</h4>
 			    <ul>
-				<li><i class="fa fa-angle-right"></i> <a href="#">Sed eu leo orci, in rhoncus puru</a></li>
-				<li><i class="fa fa-angle-right"></i> <a href="#">Condimentum gravida metus</a></li>
-				<li><i class="fa fa-angle-right"></i> <a href="#">Lpsum, in rhoncus purus</a></li>
-				<li><i class="fa fa-angle-right"></i> <a href="#">Etiam at in rhoncus puru nul</a></li>
-				<li><i class="fa fa-angle-right"></i> <a href="#">Fusce vel magnais dapibus facilisis</a></li>
+				<li><i class="fa fa-angle-right"></i> <a href="http://www.ingenieria.unam.mx/">Facultad de ingeniería UNAM</a></li>
+				<li><i class="fa fa-angle-right"></i> <a href="http://www.ciga.unam.mx/">Centro de Investigaciones en Geografía Ambiental (CIGA)</a></li>
+				<li><i class="fa fa-angle-right"></i> <a href="https://www.gob.mx/inapesca">Instituto Nacional de Pesca</a></li>
+				<li><i class="fa fa-angle-right"></i> <a href="http://www.igg.unam.mx/geoigg/">Instituto de Geografía, UNAM</a></li>
+				<li><i class="fa fa-angle-right"></i> <a href="http://www.lanot.unam.mx/">Laboratorio Nacional de Observación de la Tierra</a></li>
+				<li><i class="fa fa-angle-right"></i> <a href="http://www.uaemex.mx/">Universidad Autónoma del Estado de México</a></li>
+				<li><i class="fa fa-angle-right"></i> <a href="http://cira.uaemex.mx/">Centro Interamericano de Recursos del Agua</a></li>
+				<li><i class="fa fa-angle-right"></i> <a href="http://www.ingenieria.unam.mx/uat/estaci%C3%B3n-de-control-satelital.html">UAT-FI</a></li>
+				<li><i class="fa fa-angle-right"></i> <a href="https://conservacion.inah.gob.mx/">INAH, patrimonio arqueológico</a></li>
+				<li><i class="fa fa-angle-right"></i> <a href="http://itdp.mx/dotmx/#/descargas">Instituto de Políticas para el Transporte y el Desarrollo ITDP</a></li>
 			    </ul>
 			</div>
 		    </div>

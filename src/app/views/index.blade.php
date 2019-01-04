@@ -70,7 +70,7 @@
 	    </div>   
 
 	    <div class="row">
-	    <div class="col-md-12">
+	    <div lass="col-md-12">
 		<div class="clients">
 		<img class="img-responsive" src="img/clients/1.png" alt="" />
 		<img class="img-responsive" src="img/clients/2.png" alt="" />

@@ -65,9 +65,9 @@
 			<li><a href="{{ home_url() }}">Inicio</a></li>
 			<!-- Navigation with sub menu. Please note down the syntax before you need. Each and every link is important. -->
 			<li><a href="acerca">Acerca de</a></li>
-			<li><a href="videos">Videos</a></li>
+			<!--<li><a href="videos">Videos</a></li>-->
 			<li><a href="practicas">Prácticas</a></li>
-			<li><a href="citas">Citas</a></li>
+			<!--<li><a href="citas">Citas</a></li>-->
 			<li><a href="contacto">Contacto</a></li>
 		    </ul>
 		</nav>
@@ -134,6 +134,11 @@
 				<li><i class="fa fa-angle-right"></i> <a href="https://qgis.org/es/site/">QGIS</a></li>
 				<li><i class="fa fa-angle-right"></i> <a href="http://www.saga-gis.org/en/index.html">SAGA</a></li>
 				<li><i class="fa fa-angle-right"></i> <a href="https://step.esa.int/main/download/">SNAP</a></li>
+			    </ul>
+			    <h4>Insumos</h4>
+			    <ul>
+				<li><i class="fa fa-angle-right"></i> <a href="#">Análisis de datos geoespaciales</a></li>
+				<li><i class="fa fa-angle-right"></i> <a href="#">Percepción remota</a></li>
 			    </ul>
 			</div>
 		    </div>

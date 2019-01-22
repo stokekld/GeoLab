@@ -137,8 +137,8 @@
 			    </ul>
 			    <h4>Insumos</h4>
 			    <ul>
-				<li><i class="fa fa-angle-right"></i> <a href="#">Análisis de datos geoespaciales</a></li>
-				<li><i class="fa fa-angle-right"></i> <a href="#">Percepción remota</a></li>
+				<li><i class="fa fa-angle-right"></i> <a href="insumos/practicas_analisis_de_datos_epaciales.zip">Análisis de datos geoespaciales</a></li>
+				<li><i class="fa fa-angle-right"></i> <a href="insumos/practicas_percepción_remota.zip">Percepción remota</a></li>
 			    </ul>
 			</div>
 		    </div>

@@ -65,7 +65,7 @@
 			<li><a href="{{ home_url() }}">Inicio</a></li>
 			<!-- Navigation with sub menu. Please note down the syntax before you need. Each and every link is important. -->
 			<li><a href="acerca">Acerca de</a></li>
-			<!--<li><a href="videos">Videos</a></li>-->
+			<li><a href="videos">Videos</a></li>
 			<li><a href="practicas">Prácticas</a></li>
 			<!--<li><a href="citas">Citas</a></li>-->
 			<li><a href="contacto">Contacto</a></li>
